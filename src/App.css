@@ -1,0 +1,29 @@
+body {
+
+}
+
+.title {
+    font-size: 40px;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+    margin-top: 200px;
+    color: rgb(0, 0, 0);
+}
+
+.box {
+    margin: auto;
+    text-align: center;
+    border: 1px solid black;
+    max-width: 300px;
+    transition: 300ms;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.712);
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.411);
+}
+
+.loading {
+    text-align: center;
+    color: gray;
+    transition: 300ms;
+}
